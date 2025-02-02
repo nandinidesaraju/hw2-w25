@@ -28,6 +28,7 @@ img {
     display: block;
     margin: 0 auto;
     border: 10px dashed #ffffff;
+    box-sizing: border-box;
 }
 div {
     min-height: 125px;
@@ -77,6 +78,7 @@ div {
 footer {
     background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
     border: 5px solid #FFFFFF; 
+    box-sizing: border-box;
 }
 footer p {
     font-size: 20px;
